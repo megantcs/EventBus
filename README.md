@@ -4,6 +4,7 @@ a simple and convenient c++ event bus designed for easy and comfortable use in y
 Opportunities:
 - convenient subscription for classes
 - simple unsubscription for subscribers
+- building a subscription priority
 - thread safety
 
 ## Demo
